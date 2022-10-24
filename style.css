@@ -12,3 +12,12 @@ p{
     color: black;
     font-size: 25px;
 }
+
+.itens{
+    font-style: italic;
+}
+
+.benefios{
+    background-color: white;
+    text-align: left;
+}
