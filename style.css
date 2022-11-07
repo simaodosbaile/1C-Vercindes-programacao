@@ -17,7 +17,17 @@ p{
     font-style: italic;
 }
 
-.benefios{
+.beneficios{
     background-color: white;
     text-align: left;
 }
+
+ ul{
+    display:inline-block;
+    vertical-align: top;
+    margin: 3%;
+    list-style: circle;
+    width: 20%;
+    margin-right: 15%;
+    
+ }
